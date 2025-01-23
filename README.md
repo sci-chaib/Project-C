@@ -107,8 +107,9 @@ Potential enhancements include:
 
 
 ## 👤 Authors
+```
 Chaib Mohamed 
 Elmamsaoui Mohammed 
 Ellatifi Malak 
 Elaziz Amira
-   
+```
